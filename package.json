@@ -1,8 +1,8 @@
 {
-  "name": "react-joyride",
-  "version": "2.0.0",
+  "name": "react-joyride-ie",
+  "version": "2.0.0-11",
   "description": "Create walkthroughs and guided tours for your apps",
-  "author": "Gil Barbara <gilbarbara@gmail.com>",
+  "author": "Eric Katz <admin@ericnkatz.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gilbarbara/react-joyride.git"
@@ -28,9 +28,9 @@
     "src"
   ],
   "peerDependencies": {
+    "prop-types": "^15.0.0",
     "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0",
-    "prop-types": "^15.0.0"
+    "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "dependencies": {
     "deep-diff": "^1.0.0",
